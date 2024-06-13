@@ -29,11 +29,6 @@
                     if($convTemp == 'celsius'){
                         $resp = ($temp * 90/5.0);
                         echo"<p> A temperatura convertida para Celsius é: $resp ° Celsius</p>";
-                    } else if ($convTemp == 'fahreinheit'){
-                        $resp = ($temp - 32) * 5.0/9.0;
-                        echo"<p> A temperatura convertida para Fahreinheit é: $resp ° Fahreinheit</p>";
-                    } else {
-                        echo"Formulário não preenchido corretamente";
                     }
                 }
             }

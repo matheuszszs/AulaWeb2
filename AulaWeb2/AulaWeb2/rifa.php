@@ -38,9 +38,6 @@
                
             ?>
         </table>
-
-        <a href="index.php"><button class="botao">Voltar</button></a><br><br>
-
     </div>
     
 </body>
