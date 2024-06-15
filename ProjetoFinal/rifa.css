@@ -1,0 +1,78 @@
+body{
+    /*background: rgb(63,94,251);*/
+    background-image: url('https://api.wallpapers.ai/static/downloads/30f7859351a442f6b55ff13ddbf1bb0f/upscaled/000000_278597739_kdpmpp2m15_PS7.5_can_you_make_a_1366_by_768_wallpaper_with_satoru_gojo_s_domain_expansion_with_a_dark_tone._digital_art_concept_art_[upscaled].jpg');
+
+}
+h1.titulo{
+    text-align: center;
+    border: 1px dotted white;
+    margin: 50px auto;
+    height: 70%;
+    width: 250px;
+}
+
+/* centralizando a tabela */
+table.tabela{
+    border: 5px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ctrl + shift + del = restaura a memoria cash do browser */
+.col {
+    border: 5px solid black;
+    background-color: #8FBC8F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 400px;
+}
+.dados {
+    font-size: 23px;
+    font-style: oblique;
+    padding-left: 10px;
+    line-height: 2.0;
+}
+.aea {
+    font-size: 25px;
+    text-align: center;
+    font-style: oblique;
+}
+.premiotext{
+    font-style: oblique;
+    font-size: 15px;
+}
+.quadrado1{
+    border: 5px solid black;
+    width: 250px;                       
+}
+button.botao {
+  background-color: #f8f9fa;
+  border: 1px solid #f8f9fa;
+  border-radius: 4px;
+  color: #3c4043;
+  cursor: pointer;
+  font-family: arial,sans-serif;
+  font-size: 14px;
+  height: 36px;
+  line-height: 27px;
+  min-width: 54px;
+  padding: 0 16px;
+  text-align: center;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: pre;
+}
+
+button.botao:hover {
+  border-color: #dadce0;
+  box-shadow: rgba(0, 0, 0, .1) 0 1px 1px;
+  color: #202124;
+}
+
+button.botao:focus {
+  border-color: #4285f4;
+  outline: none;
+}

@@ -1,0 +1,28 @@
+/* body{
+    background: rgb(238,0,0);
+    background: radial-gradient(circle, rgba(238,0,0,1) 0%, rgba(152,148,233,1) 53%);
+    color: white;
+}
+
+.container{
+    width: 500px;
+    margin: 50px auto;
+    border: 2px white solid;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 85%, rgba(252,176,69,1) 100%);
+    padding: 30px;    
+}
+
+.container h1{
+    text-align: center;
+}
+
+.container p{
+    font-size: 15pt;
+}
+
+.container span{
+    font-size: 15pt;
+    font-weight: 900;
+} */
+
